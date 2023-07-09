@@ -285,6 +285,7 @@ List of tutorial participants
 - Katelyn Hughes (University of Oregon)
 - Jackson Mohr (University of Oregon)
 - Lia Washington (MIT)
+- Alyssa Cooley (Southern Illinois University, Carbondale)
 
 Checking for and creating issues on Github
 -------------------------------------------
